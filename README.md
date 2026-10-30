@@ -30,7 +30,7 @@ A six-page Power BI report analysing Olympic history: medals, countries, athlete
  
 1. Clone the repo
 ```bash
-   git clone https://github.com/<your-username>/<your-repo>.git
+   git clone https://github.com/Kaushal0810/OLYMPIC-GAMES.git
 ```
 2. Open `olympicgames_olympic_theme.pbix` in [Power BI Desktop](https://powerbi.microsoft.com/desktop/).
 3. If asked, point the data source to the `data/` folder, then click **Refresh**.
